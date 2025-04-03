@@ -1,4 +1,4 @@
-from .Bible import *
+from ..Bible import *
 
 
 class BibleParserBase:

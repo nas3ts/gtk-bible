@@ -1,4 +1,4 @@
-from .Bible import Book, Verse
+from ..Bible import Book, Verse
 from .Bible_Parser_Base import BibleParserBase
 import os
 

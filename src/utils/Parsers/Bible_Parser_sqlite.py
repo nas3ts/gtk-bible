@@ -1,4 +1,4 @@
-from .Bible import Book, Verse, Story
+from ..Bible import Book, Verse, Story
 import sqlite3
 import re
 from .Bible_Parser_Base import BibleParserBase
